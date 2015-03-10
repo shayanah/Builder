@@ -1,5 +1,5 @@
 package pack1;
-
+//V00
 import java.lang.StringBuilder;
 import java.util.Scanner;
 
